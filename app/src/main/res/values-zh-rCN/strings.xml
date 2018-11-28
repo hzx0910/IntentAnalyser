@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">跳转分析器</string>
+    <string name="keep_going">继续   ▷</string>
+    <string name="info">作者:JerseyHo</string>
+    <string name="blog">blog.csdn.net/jerseyho</string>
+    <string name="share">分享分析结果</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentAnalyser</string>
+    <string name="keep_going">CONTINUE >>></string>
+    <string name="info">Author:JerseyHo</string>
+    <string name="blog">blog.csdn.net/jerseyho</string>
+    <string name="share">SHARE ANALYSIS RESULT</string>
+
+</resources>
