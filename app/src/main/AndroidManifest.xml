@@ -47,13 +47,18 @@
                 <category android:name="android.intent.category.OPENABLE" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="" />
+                <data android:scheme="wvhzpj"/><!--csdn app open install-->
+                <data android:scheme="alipays"/>
+                <data android:scheme="weixin"/>
+                <data android:scheme="wxpay"/>
                 <data android:scheme="content" />
                 <data android:scheme="http" />
                 <data android:scheme="https" />
                 <data android:scheme="market" />
                 <data android:scheme="geo" />
                 <data android:scheme="file" />
+                <data android:scheme="hap" />
+                <data android:scheme="com.miui.hybrid" />
             </intent-filter>
         </activity>
     </application>
